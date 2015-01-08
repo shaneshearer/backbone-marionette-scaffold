@@ -25,9 +25,9 @@
 # Building the Project
 
 ##### DEVELOPMENT
-* Automatically
-    * Run `grunt` from the shell
-    * Open a web browser and navigation to [http://localhost:4000](http://localhost:4000)
+
+* Run `grunt` from the shell
+* Open a web browser and navigation to [http://localhost:4000](http://localhost:4000)
 
 # Build Process
 
