@@ -47,21 +47,7 @@
   App.on "start", (options) ->
     if Backbone.history
       Backbone.history.start()
-      #Backbone.history.navigate "default", { trigger: true }
-
-
-  # App Navigation
-  # --------------
-
-  $("nav").on "click", "a", $.proxy((e)->
-    e.preventDefault()
-    Backbone.history.navigate $(e.currentTarget).attr("href"), { trigger: true }
-  , @)
-
-
-  App.selectNavigation = (href) ->
-    $("nav li").removeClass "active"
-    $("nav a[href='##{href}']").parent().addClass "active"
+      Backbone.history.navigate "default", { trigger: true }
 
 
   App
