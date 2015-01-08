@@ -1,0 +1,21 @@
+## MAC OS
+.DS_Store
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+
+## IDEA / RUBYMINE
+.idea
+
+
+## PROJECT::SPECIFIC
+node_modules/
+public/
+!public/.gitkeep
+sauce_connect.log*
+.sass-cache

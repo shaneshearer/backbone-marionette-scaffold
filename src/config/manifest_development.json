@@ -1,0 +1,14 @@
+{
+  "environment": "#{ENVIRONMENT}",
+  "version": "#{VERSION}",
+  "dependencies": {
+    "javascript": [
+
+     ],
+     "image": [
+     ],
+     "css": [
+
+     ]
+  }
+}
