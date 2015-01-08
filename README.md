@@ -1,5 +1,5 @@
 # Setup Instructions
-***
+
 * Mac and Linux
     * Install NodeJS and NPM - [Download](http://nodejs.org/download/)
     * Install NVM
@@ -23,14 +23,14 @@
         * `bower install`
 
 # Building the Project
-***
+
 ##### DEVELOPMENT
 * Automatically
     * Run `grunt` from the shell
     * Open a web browser and navigation to [http://localhost:4000](http://localhost:4000)
 
 # Build Process
-***
+
 The project is using grunt to handle CoffeeScript and SASS compilations. Each time you run grunt, the following [grunt plugins](http://gruntjs.com/plugins) are executed:
 
 * Coffeelint
