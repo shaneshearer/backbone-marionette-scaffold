@@ -27,7 +27,7 @@
 ##### DEVELOPMENT
 
 * Run `grunt` from the shell
-* Open a web browser and navigation to [http://localhost:4000](http://localhost:4000)
+* Open a web browser and navigate to [http://localhost:4000](http://localhost:4000)
 
 # Build Process
 
